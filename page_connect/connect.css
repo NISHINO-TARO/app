@@ -1,0 +1,16 @@
+header {
+    width: 100%;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+header h1 {
+    color: white;
+}
+
+header h5 {
+    color: white;
+}
+header h6 {
+    color: black;
+}
