@@ -1,0 +1,40 @@
+header {
+    width: 100%;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+header h1 {
+    color: white;
+}
+
+header h5 {
+    color: white;
+}
+
+header h6 {
+    color: black;
+}
+button {
+    margin: 10px;
+}
+.form_save {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    aspect-ratio: 1;
+    background-color: blueviolet;
+    border-radius: 50%;
+}
+.form_display {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 60px;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
